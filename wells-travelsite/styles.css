@@ -1,0 +1,20 @@
+body {
+    padding: auto;
+    background-color: aliceblue;
+    color: tomato;
+    text-align: center;
+}
+
+h1, h2, h3 {
+     font-family: "Almendra", serif;
+}
+
+@media(max-width:500px) {
+.large-img {
+    width: 425px;
+}
+    
+}
+
+
+
